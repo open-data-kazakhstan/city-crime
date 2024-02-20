@@ -33,7 +33,7 @@ python scripts/main.py
 
 ## Data 
 
-Salary data collected by hand from stat.gov stats: https://stat.gov.kz/
+Salary data collected by hand from qamqor.gov.kz stats: https://qamqor.gov.kz/crimestat/statistics
 
 We downoladed data from this source and placed it in the data folders 
 
