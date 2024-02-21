@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Загрузка данных из CSV файла
-file_path = r'C:\Users\USER\Desktop\Практика\data\comb.csv'
+file_path = r'C:\Users\USER\Desktop\Практика\city-crime\data\comb.csv'
 df = pd.read_csv(file_path)
 
 # Создание графика пирога
@@ -14,7 +14,7 @@ ax.axis('equal')  # Убедитесь, что круг выглядит как 
 plt.title('Распределение правонарушений по регионам в 2022 году')
 
 # Добавление легенды
-legend = ax.legend(df['2022'], title='Регионы', bbox_to_anchor=(1, 0.5), loc="center right", bbox_transform=plt.gcf().transFigure)
+legend = ax.legend(df['Регион'], title='Регионы', bbox_to_anchor=(1, 0.5), loc="center right", bbox_transform=plt.gcf().transFigure)
 
 # Изменение местоположения текста
 for text, autotext in zip(texts, autotexts):
