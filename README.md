@@ -39,26 +39,6 @@ We downoladed data from this source and placed it in the data folders
 
 We have processed the source data to make it normalized and derived  several aggregated datasets from it:
 
-* `archive/Абайская Область.XLSX` - sourсe data for our csv
-* `archive/Акмолинская Область.XLSX` -sourсe data for our csv
-* `archive/Актюбинская Область.XLSX` - sourсe data for our csv
-* `archive/Алматинская Область.XLSX` -sourсe data for our csv
-* `archive/Алматы.XLSX` - sourсe data for our csv
-* `archive/Астана.XLSX` -sourсe data for our csv
-* `archive/Атырауская Область.XLSX` - sourсe data for our csv
-* `archive/Восточно-Казахстанкая Область.XLSX` -sourсe data for our csv
-* `archive/Жамбыльская Область.XLSX` - sourсe data for our csv
-* `archive/Жетысуская Область.XLSX` -sourсe data for our csv
-* `archive/Западно-Казахстанская Область.XLSX` - sourсe data for our csv
-* `archive/Карагандийская Область.XLSX` -sourсe data for our csv
-* `archive/Костанайская Область.XLSX` - sourсe data for our csv
-* `archive/Кызылординская Область.XLSX` -sourсe data for our csv
-* `archive/Мангийстауская Область.XLSX` - sourсe data for our csv
-* `archive/Павлодарская Область.XLSX` -sourсe data for our csv
-* `archive/Северо-Казахстанская Область.XLSX` - sourсe data for our csv
-* `archive/Туркестанская Область.XLSX` -sourсe data for our csv
-* `archive/Улытауская Область.XLSX` - sourсe data for our csv
-* `archive/Шымкент.XLSX` -sourсe data for our csv
 * `data/comb.csv` - final combined data, that we later would use for graph
 * `datapackage.json` - conatins all of the key information about our dataset
 
