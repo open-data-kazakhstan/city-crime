@@ -39,12 +39,12 @@ We downoladed data from this source and placed it in the data folders
 
 We have processed the source data to make it normalized and derived  several aggregated datasets from it:
 
-* `data/comb.csv` - final combined data, that we later would use for graph
+* `data/comb.csv` - final combined data about occured crime acts, that we later would use for graph
 * `datapackage.json` - conatins all of the key information about our dataset
 
 ## Scripts
 
-* `anim.py` - uses matplotlib to create an infographic about life expectancy 
+* `anim.py` - uses matplotlib to create an infographic
 * `datapack.py` - creating datapckage.json file that conatinsall meatadata
 
 ## License
